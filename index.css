@@ -10,6 +10,7 @@ body {
     font-family: 'Arial', sans-serif;
     line-height: 1.6;
     background-color: #f4f4f4;
+    
 }
 
 /* Header */
@@ -60,7 +61,7 @@ header nav ul li a:hover {
     display: grid;
     place-items: center;
     height: 100vh;
-    background-image: url('img/DALL·E\ 2024-11-24\ 02.55.45\ -\ A\ realistic\ image\ of\ a\ modern\ luxury\ bus\ designed\ as\ a\ mobile\ café\ and\ transportation\ service.\ The\ bus\ has\ large\ windows\,\ sleek\ exterior\ branding\ with.webp');
+    background-image: url(img/DALL·E\ 2024-11-24\ 02.55.45\ -\ A\ realistic\ image\ of\ a\ modern\ luxury\ bus\ designed\ as\ a\ mobile\ café\ and\ transportation\ service.\ The\ bus\ has\ large\ windows\,\ sleek\ exterior\ branding\ with.webp);
     background-size: cover;
     background-position: center;
     color: white;
